@@ -1,9 +1,9 @@
 {
-    "version":  "1.131",
-    "versionCode":  131,
+    "version":  "1.133",
+    "versionCode":  133,
     "date":  "2026-11-06",
-    "sizeBytes":  32400126,
-    "sha256":  "155122a90b450dedbcbb258c73477ad5fea2253e2de99c0a8b53be0df71e4cec",
+    "sizeBytes":  31529360,
+    "sha256":  "875a75dd8f969e3afad75227b913b846734f66949d781f9577758874f795dc1c",
     "minAndroid":  "7.0",
     "file":  "tifinbox.apk"
 }
