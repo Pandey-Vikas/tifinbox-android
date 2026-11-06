@@ -14,8 +14,8 @@ This repository only hosts the **Android app** (`tifinbox.apk`) of the TifinBox 
 
 | | |
 |---|---|
-| **Latest version** | 1.130 (06 Nov 2026) |
-| **File** | `tifinbox.apk` (30.4 MB) |
+| **Latest version** | 1.131 (06 Nov 2026) |
+| **File** | `tifinbox.apk` (30.9 MB) |
 | **Needs** | Android 7.0 or newer, 64-bit phone (almost every phone since 2017) |
 | **Download** | **[tifinbox.apk](https://github.com/Pandey-Vikas/tifinbox-android/releases/latest/download/tifinbox.apk)** |
 
@@ -24,7 +24,7 @@ You can also scan the QR code on the sign-in page of the TifinBox website with y
 SHA-256 of the file (to check that it was not changed on the way):
 
 ```
-9012daa7ae22e0d60c1e42589caefc1c934a2f3f7210b7b2d5a5557c28f859bc
+155122a90b450dedbcbb258c73477ad5fea2253e2de99c0a8b53be0df71e4cec
 ```
 
 ## Install (about one minute)
